@@ -1,4 +1,5 @@
-##🇰🇪 Everyday Essentials: Boda, Chai & M-Pesa Estimators
+# 🇰🇪 Everyday Essentials
+Boda, Chai & M-Pesa Estimators
 
 Welcome to a collection of three interactive, JavaScript-powered mini tools designed to bring Kenyan daily life experiences into code. Whether you're planning your next bodaboda ride, brewing the perfect cup of chai, or estimating your mobile money transfer fees—this set of simple prompts has you covered.
 

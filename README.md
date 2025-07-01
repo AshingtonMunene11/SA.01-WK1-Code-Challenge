@@ -44,7 +44,7 @@ Purpose: Determine the precise amount of ingredients needed to make a specific n
 ##Features:
 
 Prompts: "Jambo! How many cups of tea would you like to have today?"
-Calculates required amounts of:
+Calculates the required amounts of:
 Water (200ml/cup)
 Milk (50ml/cup)
 Tea leaves (1 tbsp/cup)
@@ -67,18 +67,20 @@ Purpose: Estimate a simplified transaction fee for sending mobile money via M-Pe
 Prompts: "Unatuma Pesa Ngapi?"
 Calculates:
 15% fee (with caps: minimum KES 10, maximum KES 70)
-Total amount deducted from sender
+The total amount deducted from the sender
 Helpful alert if invalid input is detected.
 Sample Console Output:
 ```
 Sending KES 500:
 Calculated Transaction Fee: KES 70
 Total amount to be debited: KES 570
-Send money Securely!
+Send money securely!
 ```
 ##💻 How to Run
-Open any .html file in your browser (e.g., boda.html, chai.html, or fee.html) and interact with the prompt. Open the browser console (right-click → Inspect → Console) to view results.
+Open any .html file in your browser (e.g., boda.html, chai.html, or fee.html) and interact with the prompt.
 
-> These projects are especially helpful for beginners learning JavaScript, input validation, and real-world math logic.
+## 📜 License
+
+&copy; 2025 Ashington Munene — Moringa School.
 
 
